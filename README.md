@@ -1,6 +1,6 @@
 # 📝 Resume Generator using Python & ReportLab
 
-This is a simple Python script that generates a clean, professional resume in PDF format using the [`reportlab`](https://www.reportlab.com/) library. It's fully customizable and can be adapted for different resume styles and layouts.
+This is a Python script that generates a clean, professional resume in PDF format using the [`reportlab`](https://www.reportlab.com/) library. It's fully customizable and can be adapted for different resume styles and layouts.
 
 ---
 
